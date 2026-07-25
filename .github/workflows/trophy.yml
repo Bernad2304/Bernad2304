@@ -1,1 +1,17 @@
+name: Generate trophy
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  push:
+    branches:
+      - main
+  workflow_dispatch:
 
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate trophy
+        uses: ryo-ma/github-profile-trophy@main
+        with:
+          username: Bernad2304
