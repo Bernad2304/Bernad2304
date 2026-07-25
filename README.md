@@ -143,7 +143,7 @@ Interactive **Excel** dashboard — revenue trends, top products, and customer b
 ## 🏆 Trophy Case
 
 <div align="center">
-<img src="https://github.com/Bernad2304/Bernad2304/blob/main/github-profile-trophy.svg"/>
+<img src="https://raw.githubusercontent.com/Bernad2304/Bernad2304/main/trophy.svg"/>
 </div>
 
 ## 📊 GitHub Stats
