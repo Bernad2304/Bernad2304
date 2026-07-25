@@ -140,12 +140,6 @@ Interactive **Excel** dashboard — revenue trends, top products, and customer b
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:00A8E8&height=3&width=1000"/>
 
-## 🏆 Trophy Case
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Bernad2304/Bernad2304/main/trophy.svg"/>
-</div>
-
 ## 📊 GitHub Stats
 
 <div align="center">
