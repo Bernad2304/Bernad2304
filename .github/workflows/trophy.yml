@@ -12,6 +12,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Generate trophy
-        uses: ryo-ma/github-profile-trophy@main
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: Bernad2304
+          output_path: trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
