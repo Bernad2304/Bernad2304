@@ -143,7 +143,7 @@ Interactive **Excel** dashboard — revenue trends, top products, and customer b
 ## 🏆 Trophy Case
 
 <div align="center">
-<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Bernad2304&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8"/>
+<img src="https://github.com/Bernad2304/Bernad2304/blob/main/github-profile-trophy.svg"/>
 </div>
 
 ## 📊 GitHub Stats
