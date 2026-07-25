@@ -143,7 +143,7 @@ Interactive **Excel** dashboard — revenue trends, top products, and customer b
 ## 🏆 Trophy Case
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Bernad2304&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Bernad2304&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8"/>
 </div>
 
 ## 📊 GitHub Stats
@@ -160,7 +160,7 @@ Interactive **Excel** dashboard — revenue trends, top products, and customer b
 <div align="center">
 <img src="https://img.shields.io/github/followers/Bernad2304?style=for-the-badge&color=6C63FF&labelColor=black" />
 <img src="https://img.shields.io/github/stars/Bernad2304?style=for-the-badge&color=6C63FF&labelColor=black" />
-<img src="https://img.shields.io/github/last-commit/Bernad2304?style=for-the-badge&color=6C63FF&labelColor=black" />
+<img src="https://img.shields.io/github/last-commit/Bernad2304/Bernad2304?style=for-the-badge&color=6C63FF&labelColor=black" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00A8E8,100:6C63FF&height=3&width=1000"/>
