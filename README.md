@@ -166,9 +166,6 @@ Interactive **Excel** dashboard — revenue trends, top products, and customer b
 </div>
 
 <!-- 🐍 Snake animation eating the contribution graph — needs a one-time GitHub Action, see note below -->
-<div align="center">
-<img src="https://raw.githubusercontent.com/Bernad2304/Bernad2304/output/github-contribution-grid-snake.svg" width="90%" />
-</div>
 
 ## 🧰 Tools I Use
 
