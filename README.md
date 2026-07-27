@@ -170,8 +170,6 @@ Interactive **Excel** dashboard — revenue trends, top products, and customer b
 <img src="https://raw.githubusercontent.com/Bernad2304/Bernad2304/output/github-contribution-grid-snake.svg" width="90%" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:00A8E8&height=3&width=1000"/>
-
 ## 🧰 Tools I Use
 
 | Category | Tools |
