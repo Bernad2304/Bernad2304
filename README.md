@@ -25,15 +25,18 @@
 name: Bernad Meckenzi S
 role: Aspiring Data Analyst / Business Analyst
 focus: Turning data into decisions
-tools: Excel, Power BI, SQL, Python
+tools: Excel, Power BI, SQL, Python, n8n
+business_analysis: BRD, FRD, User Stories, Root Cause Analysis, Gap Analysis
 methodology: Agile & Scrum
 ```
 
 - 📊 I love digging into data and finding the story hidden inside it
-- 🔭 Currently building my portfolio of dashboards and analytics projects
+- 🧩 I frame real business questions first, then answer them with data, from requirements (**BRD / FRD**) to dashboards
+- 🔭 Currently building my portfolio of dashboards, analytics and end-to-end BA projects
 - 🌱 Sharpening my skills in **SQL, Python, and Power BI**
-- 🤝 Comfortable working in **Agile / Scrum** teams
-- 💬 Ask me about **dashboards, data cleaning, or business insights**
+- 🤝 Familiar with **Agile / Scrum**, user stories and stakeholder communication
+- 🏥 Background in medical billing operations (claims review, 98% production efficiency, 96% quality accuracy), now moving into analytics
+- 💬 Ask me about **dashboards, data cleaning, business requirements, or business insights**
 - 📫 Reach me at **Bernadj409@gmail.com**
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:00A8E8&height=3&width=1000"/>
@@ -49,11 +52,34 @@ methodology: Agile & Scrum
 <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Agile-0052CC?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/-Scrum-00A3E0?style=for-the-badge"/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00A8E8,100:6C63FF&height=3&width=1000"/>
+
+## 📋 Business Analysis Skills
+
+<div align="center">
+<img src="https://img.shields.io/badge/-Requirement%20Gathering-6C63FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-BRD%20%26%20FRD%20Documentation-6C63FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-User%20Stories%20%26%20Acceptance%20Criteria-6C63FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-Business%20Question%20Framing-6C63FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-Root%20Cause%20Analysis-6C63FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-Process%20Mapping-6C63FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-Gap%20Analysis-00A8E8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-KPI%20%26%20Trend%20Analysis-00A8E8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-Price%20%26%20Deal%20Intelligence-00A8E8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-Data%20Quality%20Verification-00A8E8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-SDLC-0052CC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-Stakeholder%20Communication-0052CC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-Cross--Functional%20Collaboration-0052CC?style=for-the-badge"/>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:00A8E8&height=3&width=1000"/>
 
 ## 🌐 Languages I Speak
 
@@ -75,6 +101,7 @@ methodology: Agile & Scrum
 <img src="https://img.shields.io/badge/-Attention%20to%20Detail-6C63FF?style=flat-square"/>
 <img src="https://img.shields.io/badge/-Time%20Management-6C63FF?style=flat-square"/>
 <img src="https://img.shields.io/badge/-Critical%20Thinking-6C63FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/-Stakeholder%20Management-6C63FF?style=flat-square"/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00A8E8,100:6C63FF&height=3&width=1000"/>
@@ -82,6 +109,24 @@ methodology: Agile & Scrum
 ## 📂 Featured Projects
 
 <table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧭 [Career Pathway Intelligence](https://github.com/Bernad2304/Career_Pathway_Intelligence)
+**BA project, with BRD and FRD.** Skill-gap decision tool for Tamil Nadu: 1,932 real job postings scored against 56 degree programs. Findings were verified against the official University of Madras syllabus, not assumed.
+
+`Python` `SQL` `Power BI` `DAX` `n8n` `Adzuna API` `BRD / FRD`
+
+</td>
+<td width="50%" valign="top">
+
+### 🛍️ [Flipkart Price Intelligence](https://github.com/Bernad2304/flipkart-price-intelligence-etl)
+**BA project, with BRD and FRD.** E-commerce pricing and value dashboard: a Value Score and Deal Flag combine price, discount, rating and segment. 6-page Power BI dashboard on an automated ETL pipeline with failure alerts.
+
+`n8n` `FastAPI` `Selenium` `Pandas` `Power BI` `BRD / FRD`
+
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 
@@ -171,8 +216,10 @@ Interactive **Excel** dashboard — revenue trends, top products, and customer b
 
 | Category | Tools |
 |---|---|
-| **Data Analysis** | Excel, SQL, Python (Pandas, NumPy) |
-| **Visualization** | Power BI, Matplotlib, Seaborn, Excel Charts |
+| **Business Analysis** | BRD, FRD, User Stories & Acceptance Criteria, Root Cause Analysis, Gap Analysis, Process Mapping |
+| **Data Analysis** | Excel, SQL (Joins, CTEs, Aggregations), Python (Pandas, NumPy) |
+| **Visualization** | Power BI (DAX, Power Query, Data Modeling), Matplotlib, Seaborn, Excel Charts |
+| **Automation & Integration** | ETL Pipelines, n8n, REST APIs (Adzuna API), FastAPI, Selenium |
 | **Project Management** | Agile, Scrum, Jira |
 | **Version Control** | Git, GitHub |
 | **Productivity** | Notion, Google Sheets |
