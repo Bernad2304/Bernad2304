@@ -204,12 +204,6 @@ Interactive **Excel** dashboard — revenue trends, top products, and customer b
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00A8E8,100:6C63FF&height=3&width=1000"/>
 
-## 📈 Contribution Activity
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bernad2304&theme=tokyo-night&hide_border=true" width="90%" />
-</div>
-
 <!-- 🐍 Snake animation eating the contribution graph — needs a one-time GitHub Action, see note below -->
 
 ## 🧰 Tools I Use
