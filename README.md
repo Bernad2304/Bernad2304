@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A8E8,100:6C63FF&height=200&section=header&text=Bernad%20Meckenzi%20S&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Data%20Analyst%20%7C%20Turning%20Raw%20Data%20into%20Real%20Insights&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A8E8,100:6C63FF&height=200&section=header&text=Bernad%20Meckenzi%20S&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Data%20Analyst%20%7C%20Business%20Analyst%7C%20Turning%20Raw%20Data%20into%20Real%20Insights&descAlignY=55&descSize=18"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Excel+%7C+Power+BI+%7C+SQL+%7C+Python;Building+dashboards+that+tell+a+story;From+raw+rows+to+real+decisions" alt="Typing SVG" />
 
