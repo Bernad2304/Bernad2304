@@ -130,7 +130,7 @@ methodology: Agile & Scrum
 <tr>
 <td width="50%" valign="top">
 
-### 🏏 IPL 2025 Ball-by-Ball Dashboard
+### 🏏 [IPL 2025 Ball-by-Ball Dashboard](https://github.com/Bernad2304/ipl-2025-powerbi-dashboard-)
 Full BI lifecycle project — **Power Query ETL**, star-schema model, 25+ **DAX** measures, custom night-stadium theme, 4-page interactive dashboard.
 
 `Power BI` `DAX` `Star Schema` `Power Query`
@@ -138,7 +138,7 @@ Full BI lifecycle project — **Power Query ETL**, star-schema model, 25+ **DAX*
 </td>
 <td width="50%" valign="top">
 
-### 🏥 Healthcare Analytics Dashboard
+### 🏥 [Healthcare Analytics Dashboard](https://github.com/Bernad2304/Healthcare-Analytics-Dashboard)
 Enterprise-style **Power BI** dashboard visualizing patient trends, resource utilization, and key operational metrics.
 
 `Power BI` `DAX` `Data Modeling`
@@ -148,7 +148,7 @@ Enterprise-style **Power BI** dashboard visualizing patient trends, resource uti
 <tr>
 <td width="50%" valign="top">
 
-### 📱 Social Media Engagement Analytics
+### 📱 [Social Media Engagement Analytics](https://github.com/Bernad2304/Social-Media-Engagement-Analytics)
 End-to-end **Python** pipeline — cleaning, EDA, and visualization on a 5,000-row engagement dataset using Pandas, NumPy, Matplotlib & Seaborn.
 
 `Python` `Pandas` `NumPy` `Seaborn`
@@ -156,7 +156,7 @@ End-to-end **Python** pipeline — cleaning, EDA, and visualization on a 5,000-r
 </td>
 <td width="50%" valign="top">
 
-### 🎫 Customer Support Ticket Analyzer
+### 🎫 [Customer Support Ticket Analyzer](https://github.com/Bernad2304/Customer-Support-Ticket-Analyzer)
 **Python**-based tool analyzing support tickets — common issues, response times, and resolution trends.
 
 `Python` `Pandas` `Data Cleaning`
@@ -166,7 +166,7 @@ End-to-end **Python** pipeline — cleaning, EDA, and visualization on a 5,000-r
 <tr>
 <td width="50%" valign="top">
 
-### 🛒 E-Commerce Sales Dashboard
+### 🛒 [E-Commerce Sales Dashboard](https://github.com/Bernad2304/-E-Commerce-Sales-Report)
 Interactive **Excel** dashboard — revenue trends, top products, and customer behavior via pivot tables and dynamic charts.
 
 `Excel` `Pivot Tables` `Dashboards`
@@ -174,7 +174,7 @@ Interactive **Excel** dashboard — revenue trends, top products, and customer b
 </td>
 <td width="50%" valign="top">
 
-### 📚 E-Learning Purchase Analysis
+### 📚 [E-Learning Purchase Analysis](https://github.com/Bernad2304/Amazon_Sales_Data_Analysis_New)
 **SQL**-driven analysis of purchasing patterns — course popularity, revenue, and engagement trends.
 
 `SQL` `Query Optimization` `Data Analysis`
