@@ -7,7 +7,7 @@
 <br/>
 
 <a href="https://linkedin.com/in/Bernad-Meckenzi-S">
-  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-LinkedIn-377646329?style=for-the-badge&logo=Linkedin&logoColor=white"/>
 </a>
 <a href="mailto:Bernadj409@gmail.com">
   <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
@@ -229,7 +229,7 @@ Interactive **Excel** dashboard — revenue trends, top products, and customer b
 ## 🤝 Connect With Me
 
 <div align="center">
-<a href="https://linkedin.com/in/Bernad-Meckenzi-S"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"/></a>
+<a href="https://www.linkedin.com/in/s-bernad-meckenzi-377646329/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"/></a>
 <a href="mailto:Bernadj409@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 </div>
 
